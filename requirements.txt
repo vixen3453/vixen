@@ -1,0 +1,38 @@
+setuptools >= 41.0.0
+h5py >= 2.9.0
+h5py-cache >= 1.0
+requests >= 2.25.0
+tqdm >= 4.43.0
+pandas >= 1.1.4
+Pillow >= 8.0.1
+matplotlib >= 3.3.3
+tensorboard
+tensorboardx
+scikit-learn
+scikit-image
+reportlab >= 3.5.23
+scipy >= 1.4.1
+pytorch-lightning[extra]
+torchsummary
+wandb
+faiss-gpu == 1.6.3
+ffmpeg-python == 0.2.0
+dlib 
+streamlit
+ipython
+# diffusers==0.10
+transformers
+ftfy
+opencv-python
+ipywidgets
+accelerate
+clip
+openai-clip
+datasets
+openai
+fairseq
+rouge-score
+sacrebleu
+omegaconf
+install-jdk
+pycocoevalcap
