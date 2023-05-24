@@ -7,6 +7,7 @@ submitted to NeurIPS 2023.
 |  Model  | Link |
 |:-------:| :---: |
 | VIXEN-C | [Google Drive]() |
+
 and place them in the ```weights``` folder.
 ### 2. Install dependencies
 ```pip install -r requirements.txt```
